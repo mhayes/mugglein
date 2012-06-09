@@ -30,3 +30,7 @@ group :test do
   gem 'launchy'
   gem 'tork', '~> 18.2.0'
 end
+
+group :production do
+  gem 'unicorn'
+end
