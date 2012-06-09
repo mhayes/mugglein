@@ -186,7 +186,7 @@ GEM
     treetop (1.4.10)
       polyglot
       polyglot (>= 0.3.1)
-    twitter-bootstrap-rails (2.0.9)
+    twitter-bootstrap-rails (2.0.8)
       actionpack (>= 3.1)
       less-rails (~> 2.2.2)
       railties (>= 3.1)
@@ -219,5 +219,5 @@ DEPENDENCIES
   therubyracer
   thin
   tork (~> 18.2.0)
-  twitter-bootstrap-rails
+  twitter-bootstrap-rails (= 2.0.8)
   uglifier (>= 1.0.3)
