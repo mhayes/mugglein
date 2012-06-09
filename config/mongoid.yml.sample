@@ -1,0 +1,11 @@
+development:
+  host: localhost
+  database: mugglein_development
+
+test:
+  host: localhost
+  database: mugglein_test
+
+production:
+  host: localhost
+  database: mugglein_production
